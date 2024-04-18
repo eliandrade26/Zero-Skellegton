@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+}
+header{
+    width: 100%;
+    display: flex;
+     
+}
+.header{
+    margin: 20px auto;  
+}
+
+main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.text{
+    width: 100%;
+    margin: 10%;
+    
+    
+}
+h1,h2{
+    width: 100%;
+    font-size: 300%;
+    
+}
+
+.container-zero{
+    width: 100%;
+    
+}
